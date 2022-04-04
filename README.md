@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Timofey</h1>
 <h3 align="center">Golang developer from Russia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vellvill&label=Profile%20views&color=0e75b6&style=flat" alt="vellvill" /> </p>
+
 - 🔭 I’m currently working on [Auth](https://github.com/Vellvill/authorization)
 
 - 🌱 I’m currently learning **kubernetes**
@@ -11,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/timgerasimoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timgerasimoff" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
