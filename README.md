@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Auth](https://github.com/Vellvill/authorization)
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **gRPC**
 
 - 👯 I’m looking to collaborate on [algorithms](https://github.com/Vellvill/Algorithms)
 
